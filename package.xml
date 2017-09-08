@@ -6,6 +6,7 @@
         <members>AccCls2</members>
         <members>AccCls3</members>
         <members>AccCls4</members>
+        <members>AccCls5</members>
         <members>Account1</members>
         <members>Account1_Test</members>
         <name>ApexClass</name>
@@ -17,6 +18,8 @@
     <types>
         <members>Best_Practice_Service_Reports/Age_of_Cases_Currently_Open_by_Type</members>
         <members>Best_Practice_Service_Reports/Aged_Cases_by_Account</members>
+        <members>Enrollments/Emps_Admin_Users_2</members>
+        <members>QA_Reports/Students_Admin_Users</members>
         <name>Report</name>
     </types>
 </Package>
