@@ -6,10 +6,17 @@
         <members>AccCls2</members>
         <members>AccCls3</members>
         <members>AccCls4</members>
+        <members>Account1</members>
+        <members>Account1_Test</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>CustomLabel1</members>
         <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>Best_Practice_Service_Reports/Age_of_Cases_Currently_Open_by_Type</members>
+        <members>Best_Practice_Service_Reports/Aged_Cases_by_Account</members>
+        <name>Report</name>
     </types>
 </Package>
