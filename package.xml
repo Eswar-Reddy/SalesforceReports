@@ -3,6 +3,9 @@
     <version>39.0</version>
     <types>
         <members>A21</members>
+        <members>A2222</members>
+        <members>ARPTCls1</members>
+        <members>Ac1111</members>
         <members>AccCls1</members>
         <members>AccCls123567890</members>
         <members>AccCls2</members>
@@ -16,12 +19,51 @@
         <members>AppCls02</members>
         <members>ApxClaMar10</members>
         <members>ApxClass001</members>
+        <members>ApxClass001Test</members>
+        <members>ApxClass1</members>
+        <members>ApxCls1</members>
+        <members>ApxCls2</members>
+        <members>ApxCls3</members>
+        <members>ApxClsMar112017</members>
+        <members>ArDemo1</members>
+        <members>L1_Case</members>
+        <members>L1_Case_Test</members>
         <members>SamplePageController</members>
+        <members>Welcome31</members>
+        <members>WelcomeTest2</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>College__c.CollegeCourses__c</members>
+        <members>College__c.CollegeOpt2__c</members>
+        <members>College__c.CollegeOpt3__c</members>
+        <members>College__c.CollegeOpt4__c</members>
+        <members>College__c.CollegeOpt__c</members>
+        <members>College__c.CollegeP1__c</members>
+        <members>College__c.CollegeP2__c</members>
+        <members>College__c.CollegeP44__c</members>
+        <members>College__c.PicklistFieldMulti1__c</members>
+        <members>Contact.AutorabitExtId__c</members>
+        <members>Contact.Languages__c</members>
+        <members>Contact.Level__c</members>
+        <members>CustomSettingObjectInfomartionStorag__c.Setting_Object_Infomartion2__c</members>
+        <members>CustomSettingObjectInfomartionStorag__c.Setting_Object_Infomartion__c</members>
+        <members>CustomSettingsObj1__c.test_desc__c</members>
+        <members>CustomSettingsObj1__c.test_info__c</members>
+        <members>Emp2__c.Emp2CardType__c</members>
+        <name>CustomField</name>
     </types>
     <types>
         <members>CustomLabel1</members>
         <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>College__c</members>
+        <members>Contact</members>
+        <members>Contract</members>
+        <members>CustomSettingObjectInfomartionStorag__c</members>
+        <members>CustomSettingsObj1__c</members>
+        <name>CustomObject</name>
     </types>
     <types>
         <members>unfiled$public</members>
@@ -34,6 +76,11 @@
     <types>
         <members>TestPermissionSet123</members>
         <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>AdminProfile1</members>
+        <name>Profile</name>
     </types>
     <types>
         <members>Best_Practice_Service_Reports/Age_of_Cases_Currently_Open_by_Type</members>
